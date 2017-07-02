@@ -263,26 +263,26 @@ ul.navbar-nav li a:focus { background: none; color: rgb(67, 107, 239); outline: 
     transition: all .3s;
 }
 
-.p1 { background-image: url(../img/wwd/p1b.png); }
-.p1:hover { background-image: url(../img/wwd/p1bleu.png); }
+.p1 { background-image: url(../img/wwd/P1b.png); }
+.p1:hover { background-image: url(../img/wwd/P1bleu.png); }
 
-.p2 { background-image: url(../img/wwd/p2b.png); }
-.p2:hover { background-image: url(../img/wwd/p2bleu.png); }
+.p2 { background-image: url(../img/wwd/P2b.png); }
+.p2:hover { background-image: url(../img/wwd/P2bleu.png); }
 
-.p3 { background-image: url(../img/wwd/p3b.png); }
-.p3:hover { background-image: url(../img/wwd/p3bleu.png); }
+.p3 { background-image: url(../img/wwd/P3b.png); }
+.p3:hover { background-image: url(../img/wwd/P3bleu.png); }
 
-.p4 { background-image: url(../img/wwd/p4b.png); }
-.p4:hover { background-image: url(../img/wwd/p4bleu.png); }
+.p4 { background-image: url(../img/wwd/P4b.png); }
+.p4:hover { background-image: url(../img/wwd/P4bleu.png); }
 
-.p5 { background-image: url(../img/wwd/p5b.png); }
-.p5:hover { background-image: url(../img/wwd/p5bleu.png); }
+.p5 { background-image: url(../img/wwd/P5b.png); }
+.p5:hover { background-image: url(../img/wwd/P5bleu.png); }
 
-.p6 { background-image: url(../img/wwd/p6b.png); }
-.p6:hover { background-image: url(../img/wwd/p6bleu.png); }
+.p6 { background-image: url(../img/wwd/P6b.png); }
+.p6:hover { background-image: url(../img/wwd/P6bleu.png); }
 
-.p7 { background-image: url(../img/wwd/p7b.png); }
-.p7:hover { background-image: url(../img/wwd/p7bleu.png); }
+.p7 { background-image: url(../img/wwd/P7b.png); }
+.p7:hover { background-image: url(../img/wwd/P7bleu.png); }
 
 /***** Clients *****/
 
