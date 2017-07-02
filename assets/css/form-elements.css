@@ -87,13 +87,13 @@ button.btn:active {
 button.btn:focus {
 	outline: 0;
 	opacity: 0.6;
-	background: #2ba560;
+	background: #FFB000;
 	color: #fff;
 }
 
 .btn:focus, .btn:active:focus, .btn.active:focus {
 	outline: 0;
 	opacity: 0.6;
-	background: #2ba560;
+	background: #FFB000;
 	color: #fff;
 }
