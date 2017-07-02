@@ -55,7 +55,6 @@ jQuery(document).ready(function() {
 	
 	/*
 	    Testimonials
-	*/
 	$('.testimonial-active').html('<p>' + $('.testimonial-single:first p').html() + '</p>');
 	$('.testimonial-single:first .testimonial-single-image img').css('opacity', '1');
 	
@@ -68,6 +67,7 @@ jQuery(document).ready(function() {
 			$(this).fadeIn(400);
 		});
 	});
+	*/
 	
 	/*
 	    Contact form

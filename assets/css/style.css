@@ -347,7 +347,7 @@ ul.navbar-nav li a:focus { background: none; color: rgb(67, 107, 239); outline: 
 .block-2-box ul span.list-icon {
 	padding-right: 10px;
 	font-size: 24px;
-	color: #2ba560;
+	color: #FFB000;
 	vertical-align: middle;
 }
 
@@ -534,7 +534,6 @@ ul.navbar-nav li a:focus { background: none; color: rgb(67, 107, 239); outline: 
 
 .testimonial-single-image img {
 	width: 100%;
-	opacity: 0.3;
 	cursor: pointer;
 	-moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px;
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
