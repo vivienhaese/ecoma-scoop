@@ -39,8 +39,8 @@ h3 {
 
 img { max-width: 100%; }
 
-::-moz-selection { background: #2ba560; color: #fff; text-shadow: none; }
-::selection { background: #2ba560; color: #fff; text-shadow: none; }
+::-moz-selection { background: rgb(67, 107, 239); color: #fff; text-shadow: none; }
+::selection { background: rgb(67, 107, 239); color: #fff; text-shadow: none; }
 
 
 /***** Loader *****/
