@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ECOMA : Diatomées et macro-invertébrés</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:700,300,400">        
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/elegant-font/code/style.css">
+        <link rel="stylesheet" href="assets/css/animate.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/form-elements.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/media-queries.css">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- Favicon and touch icons -->
+        <link rel="shortcut icon" href="assets/ico/favicon.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+
+    </head>
+
+    <body>
+    
+        <!-- Loader -->
+        <div class="loader">
+            <div class="loader-img"></div>
+        </div>
+        
+        <!-- Top menu -->
+        <nav class="navbar navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar-1">
+                        <span class="sr-only">Afficher le menu</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">ECOMA : Experts de la qualité des milieux aquatiques</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="top-navbar-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a class="scroll-link" href="#top-content">Accueil</a></li>
+                        <li><a class="scroll-link" href="#what-we-do">Présentation</a></li>
+                        <li><a class="scroll-link" href="#portfolio">Équipe</a></li>
+                        <li><a class="scroll-link" href="#pricing-2">Activités</a></li>
+                        <li><a class="scroll-link" href="#about">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        
+        <!-- Page title -->
+        <div class="page-title top-content">
+            <div class="page-title-text wow fadeInUp">
+                <h1>Diatomées et macro-invertébrés</h1>
+            </div>
+        </div>
+
+        <!-- Block 2 -->
+        <div class="block-2-container section-container section-container-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 block-2-box block-2-left wow fadeInLeft">
+                        <h3>Les diatomées</h3>
+                        <img src="assets/img/activities/Imag14.jpg" alt="" data-at2x="assets/img/activities/Imag14.jpg">
+                        <p>
+                            Les diatomées sont des microorganismes photosynthétiques. La taille de ces algues unicellulaires varie de quelques μm à plus de 500 μm. La caractéristique principale des diatomées réside dans la présence autour du contenu cellulaire, d’une enveloppe de nature siliceuse dénommée frustule. Le détail de ce frustule est propre à chaque espèce.<br>
+
+                            Les diatomées colonisent tous les milieux aquatiques à l’exception des eaux les plus chaudes et les plus hypersalines. Mais leur faible besoin en lumière et en humidité peut leur permettre de coloniser d’autres milieux tels que l'air et le sol. Leurs cycles de vie très court en font de très bons indicateurs des variations physico-chimiques de leur environnement.<br>
+
+                            Les préférences écologiques des espèces présentes dans un échantillon permettent d’appréhender la qualité du milieu. <br>
+
+                            Dans les cours d’eau, le dénombrement des espèces identifiées permet de calculer différents indices de la qualité de l’eau : l’Indice Biologique Diatomées (IBD) et l’Indice de Polluo-sensibilité Spécifique (IPS). <br>
+
+                        </p>
+                        <!-- <img src="assets/img/activities/Imag15.jpg" alt="" data-at2x="assets/img/activities/Imag15.jpg"> -->
+                    </div>
+                    <div class="col-sm-6 block-2-box block-2-left wow fadeInUp">
+                        <h3>Les macro-invertébrés</h3>
+                        <img src="assets/img/activities/Imag16.jpg" alt="" data-at2x="assets/img/activities/Imag16.jpg">
+                        <p>
+                            Les macro-invertébrés aquatiques regroupent les insectes (adultes et larves), les crustacés, les mollusques et les vers qui vivent en zone benthique des rivières et plans d’eau.<br>
+                            Leurs différences de polluo-sensibilité permettent d’évaluer la qualité biologique d’un cours d’eau en se basant sur la composition et la diversité des populations. La dégradation des conditions de référence rend compte des perturbations d’origine naturelle ou anthropique.<br><br>
+
+                            Plusieurs indices basés sur les macro-invertébrés peuvent être mis en œuvre dans le cadre de l’expertise d’Ecoma :
+                        </p>
+
+                        <ul>
+                            <li><span aria-hidden="true" class="icon_plus list-icon"></span> IBGN (Indice Biologique Global Normalisé) ― norme AFNOR NF T90-350.</li>
+                            <li><span aria-hidden="true" class="icon_plus list-icon"></span> IBG-DCE (Indice Biologique Global DCE) ― norme AFNOR NF T90-333 (prélèvements) et norme expérimentale XP T90-388 (analyse en laboratoire). Actuellement utilisé en routine sur l’ensemble des réseaux de surveillance Français. </li>
+                            <li><span aria-hidden="true" class="icon_plus list-icon"></span> IBGA (Indice Biologique Global Adapté aux grands cours d’eaux) ―  protocole expérimental d'échantillonnage des macro-invertébrés en cours d'eau profonds, Cemagref 2009).</li>
+                        </ul>
+                        <img src="assets/img/activities/Imag17.jpg" alt="" data-at2x="assets/img/activities/Imag17.jpg">
+                        <p>
+                            La récolte des macro-invertébrés sur la station étudiée se fait en période d’étiage avec des filets de type surber ou haveneau (filet de maille 1/20ème de m²). L’extraction et l’identification des macro-invertébrés sont réalisées en laboratoire à l’aide de loupes binoculaires. L’exploitation de la liste faunistique permet ensuite le calcul de notes de qualité (IBGN, IBG MPCE, IBG MGCE, I2M2). L’étude de la composition du peuplement permet de mettre en valeur les traits écologiques du peuplement.
+                        </p>
+                        <img src="assets/img/activities/Imag18.jpg" alt="" data-at2x="assets/img/activities/Imag18.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="scroll-to-top">
+                            <a href="#"><i class="fa fa-chevron-up"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-1é footer-copyright">
+                        <center>&copy; ecoma-scop</center>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        
+
+        <!-- Javascript -->
+        <script src="assets/js/jquery-1.11.1.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.backstretch.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/retina-1.1.0.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/waypoints.min.js"></script>
+        <script src="assets/js/jquery.countTo.js"></script>
+        <script src="assets/js/masonry.pkgd.min.js"></script>
+        <script src="assets/js/scripts.js"></script>
+        
+        <!--[if lt IE 10]>
+            <script src="assets/js/placeholder.js"></script>
+        <![endif]-->
+
+    </body>
+
+</html>
